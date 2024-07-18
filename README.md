@@ -44,6 +44,7 @@ You can see how my prompt in PowerBI is and you can either use it as it is or yo
 
 ---------------------------------
 
+![image](https://github.com/user-attachments/assets/b7223875-57a1-4923-ae6e-143c90566c1c)
 
 
 
